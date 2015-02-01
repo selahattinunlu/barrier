@@ -1,0 +1,22 @@
+{
+  "name": "barrier",
+  "main": "barrier.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/selahattinunlu/barrier",
+  "authors": [
+    "Selahattin Ünlü <selahattin.unlu@yandex.com>"
+  ],
+  "keywords": [
+    "nav",
+    "navigation",
+    "barrier"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
