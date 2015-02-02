@@ -1,3 +1,5 @@
+// https://github.com/selahattinunlu/barrier
+
 if (typeof jQuery === 'undefined')
 	throw new Error('Barrier requires jQuery!');
 
